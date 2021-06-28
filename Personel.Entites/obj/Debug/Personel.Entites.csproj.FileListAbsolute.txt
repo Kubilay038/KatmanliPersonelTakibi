@@ -1,0 +1,12 @@
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\Personel.Entites.dll.config
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\Personel.Entites.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\Personel.Entites.pdb
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\EntityFramework.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\EntityFramework.xml
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\obj\Debug\Personel.Entites.csprojAssemblyReference.cache
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\obj\Debug\Personel.Entites.csproj.CoreCompileInputs.cache
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\obj\Debug\Personel.Entites.csproj.CopyComplete
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\obj\Debug\Personel.Entites.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.Entites\obj\Debug\Personel.Entites.pdb

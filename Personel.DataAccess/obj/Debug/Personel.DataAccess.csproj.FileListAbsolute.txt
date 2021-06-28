@@ -1,0 +1,15 @@
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\obj\Debug\Personel.DataAccess.csprojAssemblyReference.cache
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\obj\Debug\Personel.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.DataAccess.dll.config
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.DataAccess.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.DataAccess.pdb
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.Entites.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.Entites.pdb
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\Personel.Entites.dll.config
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\obj\Debug\Personel.DataAccess.csproj.CopyComplete
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\obj\Debug\Personel.DataAccess.dll
+C:\Users\kubil\source\repos\KatmanlıPersonelTakibi\Personel.DataAccess\obj\Debug\Personel.DataAccess.pdb
